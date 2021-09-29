@@ -5,3 +5,4 @@ This year-long pilot project will add a new digital collection to the HBCU Libra
 ## Documentation
  - [Project Plan](project-plan.md)
  - [Training Resources](training-resources.md)
+ - [Publications and Presentations](press.md)
