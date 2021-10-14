@@ -5,4 +5,7 @@ This year-long pilot project will add a new digital collection to the HBCU Libra
 ## Documentation
  - [Project Plan](project-plan.md)
  - [Training Resources](training-resources.md)
+ - [Meeting Notes](meeting_notes.md)
  - [Publications and Presentations](press.md)
+
+Documentation on this site is written in [Markdown](https://www.markdownguide.org/basic-syntax/).
