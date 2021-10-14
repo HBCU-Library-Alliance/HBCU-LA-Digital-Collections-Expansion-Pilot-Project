@@ -1,10 +1,10 @@
-2021-10-20
+### 2021-10-20
 
 Attendees: Christine
 
 ---
 
-2021-08-25
+### 2021-08-25
 
 Attendees:  Cliff, Sandra, Nina, Christine
 Agenda/Notes
@@ -49,8 +49,9 @@ Update from Nina
 
 ---
 
-2021-07-28
-Cliff Landis, Nina Ishokir, Sandra Phoenix, Christine Wiseman
+### 2021-07-28
+
+Attendees: Cliff Landis, Nina Ishokir, Sandra Phoenix, Christine Wiseman
 
 Notes
 
