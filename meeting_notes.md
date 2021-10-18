@@ -1,6 +1,7 @@
 ### 2021-10-20
 
 Attendees: Christine
+
 Agenda/Notes
 ---
 
