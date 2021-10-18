@@ -1,6 +1,6 @@
 ### 2021-10-20
 
-Attendees: Christine
+Attendees: Christine,
 
 Agenda/Notes
 ---
