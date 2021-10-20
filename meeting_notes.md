@@ -5,18 +5,23 @@ Attendees: Christine,
 Agenda/Notes
 
 -Updates
-Status of selection of items for digitization
+- Status of selection of items for digitization
+	- Nina's been reading up on the history of the college to aid in selection. 
+	- She hasn't seleted any materials as of yet. Will try to complete selection by next meeting.
 
-Status of Equipment
+- Status of Equipment
     - Nina still waiting on computer.  Order now delayed until Dec 22. She may have to try to use her current desktop in the interim. She will send us the specs.
-    - Software- she has a meeting scheduled with her IT person.
+    - Software- she has a meeting scheduled with her IT person.  Photoshop, Excel, Silverfast, FastStone.  She will need to order a license for Photoshop.
 	
 -Status of filling vacant position at Clinton College
--Support needed from AUC
--Next steps
-	-Scanning tutorial (separate meeting)
-	-Metadata –shared google sheet
 
+-Support needed from AUC
+
+- Next steps
+	- Scanning tutorial (separate meeting)
+	- Metadata –shared google sheet
+	- Schedule a meeting before next monthly to reivew scanning procedures.
+	- Connect Nina with Robert Fallen about setting up EZProxy.
 
 ---
 
