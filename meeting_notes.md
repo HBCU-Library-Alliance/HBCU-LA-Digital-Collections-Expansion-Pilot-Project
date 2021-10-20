@@ -3,6 +3,21 @@
 Attendees: Christine,
 
 Agenda/Notes
+
+-Updates
+Status of selection of items for digitization
+
+Status of Equipment
+    - Nina still waiting on computer.  Order now delayed until Dec 22. She may have to try to use her current desktop in the interim. She will send us the specs.
+    - Software- she has a meeting scheduled with her IT person.
+	
+-Status of filling vacant position at Clinton College
+-Support needed from AUC
+-Next steps
+	-Scanning tutorial (separate meeting)
+	-Metadata –shared google sheet
+
+
 ---
 
 ### 2021-08-25
