@@ -7,7 +7,7 @@ Agenda/Notes
 -Updates
 - Status of selection of items for digitization
 	- Nina's been reading up on the history of the college to aid in selection. 
-	- She hasn't seleted any materials as of yet. Will try to complete selection by next meeting.
+	- She hasn't selected any materials as of yet. Will try to complete selection by next meeting.
 
 - Status of Equipment
     - Nina still waiting on computer.  Order now delayed until Dec 22. She may have to try to use her current desktop in the interim. She will send us the specs.
@@ -20,7 +20,7 @@ Agenda/Notes
 - Next steps
 	- Scanning tutorial (separate meeting)
 	- Metadata –shared google sheet
-	- Schedule a meeting before next monthly to reivew scanning procedures.
+	- Schedule a meeting before next month to review scanning procedures.
 	- Connect Nina with Robert Fallen about setting up EZProxy.
 
 ---
